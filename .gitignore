@@ -1,0 +1,4 @@
+# ignore IDE
+.idea/
+target/
+docker-maven-plugin-test.iml
